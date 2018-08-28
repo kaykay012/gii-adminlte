@@ -1,0 +1,21 @@
+{
+    "name": "kaykay012/gii",
+    "description": "gii adminlte",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","gii", "adminlte"],
+    "license": "BSD-3-Clause", 
+    "authors": [
+        {
+            "name": "kai cui",
+            "email": "kaykay012@sina.cn"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "kaykay012\\gii\\": ""
+        }
+    }
+}
